@@ -12,8 +12,8 @@
 #define LED_BUILTIN 2
 #endif
 
-static const uint16_t FSR_LIGHT_THRESHOLD = 500;
-static const uint16_t FSR_HARD_THRESHOLD  = 2500;
+static const uint16_t FSR_LIGHT_THRESHOLD = 650;
+static const uint16_t FSR_HARD_THRESHOLD  = 2700;
 
 #define FSR_PIN 34
 #define FSR_ACTIVE_LOW 0
